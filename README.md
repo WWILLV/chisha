@@ -1,6 +1,6 @@
 ## Chisha 吃啥
 
-![ganfan](ganfan.jpg)
+![ganfan](https://github.com/WWILLV/chisha/raw/master/ganfan.JPG)
 
 简而言之，就是不知道吃啥，就写了一个软件。
 
@@ -22,8 +22,8 @@ requests
 
 ### screenshot
 
-![](\screenshot\chisha.png)
+![](https://github.com/WWILLV/chisha/raw/master/screenshot/chisha.png)
 
-![](\screenshot\recipe.png)
+![](https://github.com/WWILLV/chisha/raw/master/screenshot/recipe.png)
 
-![](\screenshot\phone.png)
+![](https://github.com/WWILLV/chisha/raw/master/screenshot/phone.png)
